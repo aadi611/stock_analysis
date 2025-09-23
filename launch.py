@@ -25,15 +25,15 @@ GROQ_API_KEY="Enter Your API here from groq"
 
 Alpha Vantage API (Enhanced Financial Data)
 Get free key from: https://www.alphavantage.co/support/#api-key
-ALPHA_VANTAGE_API_KEY=M04SBYGR303EXS34
+ALPHA_VANTAGE_API_KEY=
 
 NewsAPI (Market News & Sentiment)
 Get free key from: https://newsapi.org/register
-NEWS_API_KEY=703492bb2a6344b48af5f527c9299d19
+NEWS_API_KEY=
 
 FRED API (Economic Data - 10Y Treasury)
 Get free key from: https://fred.stlouisfed.org/docs/api/api_key.html
-FRED_API_KEY=ba098fbba0b8bfa6ba91820da865bfb8
+FRED_API_KEY=
 
 # Instructions:
 # 1. Remove the # symbol before each API key line
@@ -66,4 +66,5 @@ FRED_API_KEY=ba098fbba0b8bfa6ba91820da865bfb8
 
 if __name__ == "__main__":
     main()
+
 
