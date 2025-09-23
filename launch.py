@@ -21,7 +21,7 @@ def main():
 
 Groq AI API (Required for AI Analysis)
 Get free key from: https://console.groq.com
-GROQ_API_KEY=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
+GROQ_API_KEY="Enter Your API here from groq"
 
 Alpha Vantage API (Enhanced Financial Data)
 Get free key from: https://www.alphavantage.co/support/#api-key
@@ -66,3 +66,4 @@ FRED_API_KEY=ba098fbba0b8bfa6ba91820da865bfb8
 
 if __name__ == "__main__":
     main()
+
