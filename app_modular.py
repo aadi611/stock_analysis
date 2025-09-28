@@ -26,7 +26,7 @@ except ImportError:
 app = FastAPI(
     title=settings.APP_NAME,
     version=settings.APP_VERSION,
-    description="Professional Stock Market Analysis AI Agent Workflow Application"
+    description="Professional Stock Market Analysis Agent Workflow Application"
 )
 
 # Add CORS middleware
