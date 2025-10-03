@@ -1,6 +1,6 @@
 # Professional Stock Market Analysis Platform
 
-A comprehensive, enterprise-grade stock analysis application with professional dark theme and modular architecture, powered by AI agents for comprehensive financial intelligence.
+A comprehensive, enterprise-grade stock analysis application with professional dark theme and modular architecture, powered by AI agents for comprehensive financial intelligence
 
 ## 🏗️ Modular Architecture
 
@@ -289,3 +289,4 @@ This application is for educational and research purposes only. It should not be
 ---
 
 **Built with ❤️ for the financial analysis community**
+
