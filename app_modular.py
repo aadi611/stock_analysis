@@ -3,9 +3,6 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
 from pydantic import BaseModel
 from typing import Dict, List, Optional, Any
-import asyncio
-import os
-import Flask
 from datetime import datetime
 
 # Import our modules
