@@ -4,6 +4,9 @@ from fastapi.responses import JSONResponse
 from pydantic import BaseModel
 from typing import Dict, List, Optional, Any
 from datetime import datetime
+import os
+import asynco
+
 
 # Import our modules
 from data_providers.yahoo_finance import YahooFinanceProvider
