@@ -3,6 +3,7 @@
 
 import subprocess
 import os
+import sys
 
 def main():
     print("▓ Professional Stock Analytics Platform")
